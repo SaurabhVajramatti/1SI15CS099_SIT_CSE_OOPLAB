@@ -51,6 +51,7 @@ void fnCheck(const Circle& a,const Circle& b)
         cout<<"\n\nThe circles are disjoint.";
 
 }
+
 int main()
 {
     cout<<"SAMPLE SECTION 1:\n";
